@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibraheem Ahmed</h1>
-
+<br>
+<h3 align="center">flutter developer</h3>
+<br>
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile" /> </p>
 <br>
@@ -17,9 +19,9 @@
 
 - I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 I’m currently learning **Flutter and Dart and React**
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **Flutter & React Projects **
 
 - 👨‍💻 All of my projects are available at [https://github.com/ibraheemahmed48](https://github.com/ibraheemahmed48)
 
