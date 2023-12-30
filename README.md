@@ -19,7 +19,7 @@
 
 - I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Flutter and Dart and React**
+- 🌱 I’m currently learning **Flutter, Dart and React**
 
 - 👯 I’m looking to collaborate on **Flutter & React Projects **
 
