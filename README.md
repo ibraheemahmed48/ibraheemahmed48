@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibraheem Ahmed</h1>
 <br>
-<h3 align="center">flutter developer</h3>
+<h3 align="center">software developer</h3>
 <br>
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile" /> </p>
